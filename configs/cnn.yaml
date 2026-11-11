@@ -1,0 +1,11 @@
+# Frozen 2026-11-09 (predictions.md, Part A.1). Do not edit.
+architecture: cnn
+dataset: fmnist
+optimizer: adam
+lr: 1.0e-3
+weight_decay: 0.0
+batch_size: 128
+max_epochs: 30
+patience: 5
+# Conv(1->16,5x5,pad2)->ReLU->MaxPool2 -> Conv(16->32,5x5)->ReLU->MaxPool2
+# -> FC(800->128)->ReLU -> FC(128->10); no BatchNorm anywhere

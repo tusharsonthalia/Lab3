@@ -1,0 +1,27 @@
+# Environment / caches
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# Downloaded datasets (re-downloaded by `python -m lab3 make-splits`)
+data/
+
+# Not part of the submission
+_quarantine/
+_orchestration/
+
+# Large regenerable intermediates (selected compressed exports are added explicitly later)
+checkpoints/pilot/
+results/compacts/
+results/precision_artifacts/
+results/bench/*.pt
+
+# Built submission (regenerate with scripts/build_submission.py)
+submission/
+report/*.aux
+report/*.log
+report/*.fls
+report/*.fdb_latexmk
+report/*.xdv
+report/*.out

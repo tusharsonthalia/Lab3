@@ -1,0 +1,71 @@
+{
+ "code": "442b647a8cc1c7eae06a979e20853f6e391f73eac00ef4209f4623013bfcd6ae",
+ "selection": {
+  "mlp": {
+   "arch": "mlp",
+   "selected": "int8_static",
+   "val_acc": 0.8984,
+   "latency_ms": 0.404396,
+   "run_id": "mlp-dense-20261110T022420586492Z-25d6f7",
+   "reason": "val count 4492 vs 4492; latency 0.519479 vs 0.404396 ms",
+   "candidates": [
+    [
+     "int8_dynamic",
+     0.8984,
+     0.519479,
+     "mlp-dense-20261110T022418193278Z-7df957"
+    ],
+    [
+     "int8_static",
+     0.8984,
+     0.404396,
+     "mlp-dense-20261110T022420586492Z-25d6f7"
+    ]
+   ]
+  },
+  "cnn": {
+   "arch": "cnn",
+   "selected": "int8_dynamic",
+   "val_acc": 0.9182,
+   "latency_ms": 7.292208499999999,
+   "run_id": "cnn-dense-20261110T022434224834Z-9e1d6e",
+   "reason": "val count 4591 vs 4577; latency 7.292208499999999 vs 3.3536665 ms",
+   "candidates": [
+    [
+     "int8_dynamic",
+     0.9182,
+     7.292208499999999,
+     "cnn-dense-20261110T022434224834Z-9e1d6e"
+    ],
+    [
+     "int8_static",
+     0.9154,
+     3.3536665,
+     "cnn-dense-20261110T022438533056Z-f082d1"
+    ]
+   ]
+  },
+  "gcn": {
+   "arch": "gcn",
+   "selected": "int8_static",
+   "val_acc": 0.7940000295639038,
+   "latency_ms": 1.2744585000000002,
+   "run_id": "gcn-dense-20261110T022454895631Z-312d78",
+   "reason": "val count 398 vs 397; latency 1.5353539999999999 vs 1.2744585000000002 ms",
+   "candidates": [
+    [
+     "int8_dynamic",
+     0.7960000038146973,
+     1.5353539999999999,
+     "gcn-dense-20261110T022453024493Z-d73a16"
+    ],
+    [
+     "int8_static",
+     0.7940000295639038,
+     1.2744585000000002,
+     "gcn-dense-20261110T022454895631Z-312d78"
+    ]
+   ]
+  }
+ }
+}

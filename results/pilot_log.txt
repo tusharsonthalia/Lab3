@@ -1,0 +1,104 @@
+[pilot] start 2026-11-09T19:43:11.823405+00:00 seed=0 cells=51 already_done=0
+[pilot]  1/51 mlp/s1/t0.25 start
+[pilot]  1/51 mlp/s1/t0.25 status=ok arm_id=mlp-s1-t0.25-seed0-20261109T194311826265Z-f2ade5 wall=9s test_acc=0.8916/0.8964 
+[pilot]  2/51 mlp/s1/t0.5  start
+[pilot]  2/51 mlp/s1/t0.5  status=ok arm_id=mlp-s1-t0.5-seed0-20261109T194320824874Z-a4cdcf wall=8s test_acc=0.889/0.899 
+[pilot]  3/51 mlp/s1/t0.75 start
+[pilot]  3/51 mlp/s1/t0.75 status=ok arm_id=mlp-s1-t0.75-seed0-20261109T194328954979Z-6c1e19 wall=7s test_acc=0.804/0.8953 
+[pilot]  4/51 mlp/s1/t0.9  start
+[pilot]  4/51 mlp/s1/t0.9  status=ok arm_id=mlp-s1-t0.9-seed0-20261109T194336132291Z-0c4979 wall=7s test_acc=0.5973/0.8842 
+[pilot]  5/51 mlp/s2/t0.25 start
+[pilot]  5/51 mlp/s2/t0.25 status=ok arm_id=mlp-s2-t0.25-seed0-20261109T194342732028Z-552f0c wall=6s test_acc=0.8822/0.8955 
+[pilot]  6/51 mlp/s2/t0.5  start
+[pilot]  6/51 mlp/s2/t0.5  status=ok arm_id=mlp-s2-t0.5-seed0-20261109T194348267526Z-519783 wall=5s test_acc=0.7597/0.8925 
+[pilot]  7/51 mlp/s2/t0.75 start
+[pilot]  7/51 mlp/s2/t0.75 status=ok arm_id=mlp-s2-t0.75-seed0-20261109T194353758914Z-eb6230 wall=5s test_acc=0.4904/0.874 
+[pilot]  8/51 mlp/s2/t0.9  start
+[pilot]  8/51 mlp/s2/t0.9  status=ok arm_id=mlp-s2-t0.9-seed0-20261109T194359149726Z-9e1a38 wall=5s test_acc=0.1497/0.8444 
+[pilot]  9/51 mlp/s3/t0.25 start
+[pilot]  9/51 mlp/s3/t0.25 status=ok arm_id=mlp-s3-t0.25-seed0-20261109T194404349098Z-857178 wall=10s test_acc=0.8896/0.8928 
+[pilot] 10/51 mlp/s3/t0.5  start
+[pilot] 10/51 mlp/s3/t0.5  status=ok arm_id=mlp-s3-t0.5-seed0-20261109T194414106711Z-e4131a wall=9s test_acc=0.8748/0.8942 
+[pilot] 11/51 mlp/s3/t0.75 start
+[pilot] 11/51 mlp/s3/t0.75 status=ok arm_id=mlp-s3-t0.75-seed0-20261109T194422899794Z-c58896 wall=8s test_acc=0.8309/0.8937 
+[pilot] 12/51 mlp/s3/t0.9  start
+[pilot] 12/51 mlp/s3/t0.9  status=ok arm_id=mlp-s3-t0.9-seed0-20261109T194430732342Z-aa3d55 wall=7s test_acc=0.658/0.8818 
+[pilot] 13/51 mlp/s4/t0.25 start
+[pilot] 13/51 mlp/s4/t0.25 status=ok arm_id=mlp-s4-t0.25-seed0-20261109T194437915425Z-863482 wall=7s test_acc=0.8831/0.8949 
+[pilot] 14/51 mlp/s4/t0.5  start
+[pilot] 14/51 mlp/s4/t0.5  status=ok arm_id=mlp-s4-t0.5-seed0-20261109T194444973838Z-68db81 wall=7s test_acc=0.8534/0.8957 
+[pilot] 15/51 mlp/s4/t0.75 start
+[pilot] 15/51 mlp/s4/t0.75 status=ok arm_id=mlp-s4-t0.75-seed0-20261109T194452178959Z-03d5f9 wall=7s test_acc=0.733/0.8883 
+[pilot] 16/51 mlp/s4/t0.9  start
+[pilot] 16/51 mlp/s4/t0.9  status=ok arm_id=mlp-s4-t0.9-seed0-20261109T194459199805Z-c6da2b wall=7s test_acc=0.3332/0.867 
+[pilot] 17/51 mlp/dense_ft/t0.0  start
+[pilot] 17/51 mlp/dense_ft/t0.0  status=ok arm_id=mlp-dense_ft-t0.0-seed0-20261109T194505921467Z-7d575e wall=6s test_acc=None/0.8956 
+[pilot] 18/51 cnn/s1/t0.25 start
+[pilot] 18/51 cnn/s1/t0.25 status=ok arm_id=cnn-s1-t0.25-seed0-20261109T194511782324Z-9e8a4d wall=41s test_acc=0.9088/0.9144 
+[pilot] 19/51 cnn/s1/t0.5  start
+[pilot] 19/51 cnn/s1/t0.5  status=ok arm_id=cnn-s1-t0.5-seed0-20261109T194552805006Z-b14d14 wall=38s test_acc=0.9065/0.9158 
+[pilot] 20/51 cnn/s1/t0.75 start
+[pilot] 20/51 cnn/s1/t0.75 status=ok arm_id=cnn-s1-t0.75-seed0-20261109T194630448460Z-a6e08a wall=37s test_acc=0.851/0.9115 
+[pilot] 21/51 cnn/s1/t0.9  start
+[pilot] 21/51 cnn/s1/t0.9  status=ok arm_id=cnn-s1-t0.9-seed0-20261109T194707204396Z-92fdac wall=32s test_acc=0.5378/0.9033 
+[pilot] 22/51 cnn/s2/t0.25 start
+[pilot] 22/51 cnn/s2/t0.25 status=ok arm_id=cnn-s2-t0.25-seed0-20261109T194739447276Z-c2ec2d wall=28s test_acc=0.7921/0.9101 
+[pilot] 23/51 cnn/s2/t0.5  start
+[pilot] 23/51 cnn/s2/t0.5  status=ok arm_id=cnn-s2-t0.5-seed0-20261109T194807018760Z-3ba00b wall=24s test_acc=0.7111/0.9006 
+[pilot] 24/51 cnn/s2/t0.75 start
+[pilot] 24/51 cnn/s2/t0.75 status=ok arm_id=cnn-s2-t0.75-seed0-20261109T194831289551Z-bcbe4a wall=19s test_acc=0.2987/0.8743 
+[pilot] 25/51 cnn/s2/t0.9  start
+[pilot] 25/51 cnn/s2/t0.9  status=ok arm_id=cnn-s2-t0.9-seed0-20261109T194850175788Z-fab4bc wall=19s test_acc=0.0969/0.8027 
+[pilot] 26/51 cnn/s3/t0.25 start
+[pilot] 26/51 cnn/s3/t0.25 status=ok arm_id=cnn-s3-t0.25-seed0-20261109T194909461552Z-351acd wall=42s test_acc=0.9087/0.9141 
+[pilot] 27/51 cnn/s3/t0.5  start
+[pilot] 27/51 cnn/s3/t0.5  status=ok arm_id=cnn-s3-t0.5-seed0-20261109T194951243363Z-ab9d87 wall=41s test_acc=0.8926/0.9137 
+[pilot] 28/51 cnn/s3/t0.75 start
+[pilot] 28/51 cnn/s3/t0.75 status=ok arm_id=cnn-s3-t0.75-seed0-20261109T195032057038Z-7209d3 wall=40s test_acc=0.7888/0.9086 
+[pilot] 29/51 cnn/s3/t0.9  start
+[pilot] 29/51 cnn/s3/t0.9  status=ok arm_id=cnn-s3-t0.9-seed0-20261109T195111659601Z-0b516f wall=37s test_acc=0.3654/0.8996 
+[pilot] 30/51 cnn/s4/t0.25 start
+[pilot] 30/51 cnn/s4/t0.25 status=ok arm_id=cnn-s4-t0.25-seed0-20261109T195149127430Z-9dda38 wall=31s test_acc=0.8657/0.9129 
+[pilot] 31/51 cnn/s4/t0.5  start
+[pilot] 31/51 cnn/s4/t0.5  status=ok arm_id=cnn-s4-t0.5-seed0-20261109T195220479628Z-4f6927 wall=29s test_acc=0.7056/0.9142 
+[pilot] 32/51 cnn/s4/t0.75 start
+[pilot] 32/51 cnn/s4/t0.75 status=ok arm_id=cnn-s4-t0.75-seed0-20261109T195249685037Z-c7602f wall=31s test_acc=0.2807/0.895 
+[pilot] 33/51 cnn/s4/t0.9  start
+[pilot] 33/51 cnn/s4/t0.9  status=ok arm_id=cnn-s4-t0.9-seed0-20261109T195320711932Z-a2e317 wall=31s test_acc=0.1777/0.8478 
+[pilot] 34/51 cnn/dense_ft/t0.0  start
+[pilot] 34/51 cnn/dense_ft/t0.0  status=ok arm_id=cnn-dense_ft-t0.0-seed0-20261109T195351455523Z-4433f7 wall=30s test_acc=None/0.915 
+[pilot] 35/51 gcn/s1/t0.25 start
+[pilot] 35/51 gcn/s1/t0.25 status=ok arm_id=gcn-s1-t0.25-seed0-20261109T195421719956Z-6345ff wall=9s test_acc=0.8090000152587891/0.8140000104904175 
+[pilot] 36/51 gcn/s1/t0.5  start
+[pilot] 36/51 gcn/s1/t0.5  status=ok arm_id=gcn-s1-t0.5-seed0-20261109T195430968359Z-bdea8b wall=7s test_acc=0.8100000023841858/0.8059999942779541 
+[pilot] 37/51 gcn/s1/t0.75 start
+[pilot] 37/51 gcn/s1/t0.75 status=ok arm_id=gcn-s1-t0.75-seed0-20261109T195438285989Z-38ebfe wall=6s test_acc=0.800000011920929/0.8050000071525574 
+[pilot] 38/51 gcn/s1/t0.9  start
+[pilot] 38/51 gcn/s1/t0.9  status=ok arm_id=gcn-s1-t0.9-seed0-20261109T195443888861Z-5888b1 wall=4s test_acc=0.7960000038146973/0.800000011920929 
+[pilot] 39/51 gcn/s2/t0.25 start
+[pilot] 39/51 gcn/s2/t0.25 status=ok arm_id=gcn-s2-t0.25-seed0-20261109T195448350709Z-2776bb wall=3s test_acc=0.7459999918937683/0.8119999766349792 
+[pilot] 40/51 gcn/s2/t0.5  start
+[pilot] 40/51 gcn/s2/t0.5  status=ok arm_id=gcn-s2-t0.5-seed0-20261109T195451832421Z-d2da8d wall=3s test_acc=0.546999990940094/0.7749999761581421 
+[pilot] 41/51 gcn/s2/t0.75 start
+[pilot] 41/51 gcn/s2/t0.75 status=ok arm_id=gcn-s2-t0.75-seed0-20261109T195455294713Z-3f7059 wall=3s test_acc=0.25099998712539673/0.40799999237060547 
+[pilot] 42/51 gcn/s2/t0.9  start
+[pilot] 42/51 gcn/s2/t0.9  status=ok arm_id=gcn-s2-t0.9-seed0-20261109T195458756975Z-bfe41c wall=3s test_acc=0.10300000011920929/0.14900000393390656 
+[pilot] 43/51 gcn/s3/t0.25 start
+[pilot] 43/51 gcn/s3/t0.25 status=ok arm_id=gcn-s3-t0.25-seed0-20261109T195502225525Z-bc0bc2 wall=9s test_acc=0.8090000152587891/0.8119999766349792 
+[pilot] 44/51 gcn/s3/t0.5  start
+[pilot] 44/51 gcn/s3/t0.5  status=ok arm_id=gcn-s3-t0.5-seed0-20261109T195511370535Z-585487 wall=7s test_acc=0.8090000152587891/0.8040000200271606 
+[pilot] 45/51 gcn/s3/t0.75 start
+[pilot] 45/51 gcn/s3/t0.75 status=ok arm_id=gcn-s3-t0.75-seed0-20261109T195518667586Z-5a3f20 wall=6s test_acc=0.8009999990463257/0.8069999814033508 
+[pilot] 46/51 gcn/s3/t0.9  start
+[pilot] 46/51 gcn/s3/t0.9  status=ok arm_id=gcn-s3-t0.9-seed0-20261109T195524206001Z-8ba903 wall=4s test_acc=0.7829999923706055/0.8029999732971191 
+[pilot] 47/51 gcn/s4/t0.25 start
+[pilot] 47/51 gcn/s4/t0.25 status=ok arm_id=gcn-s4-t0.25-seed0-20261109T195528623568Z-b212b0 wall=4s test_acc=0.722000002861023/0.8059999942779541 
+[pilot] 48/51 gcn/s4/t0.5  start
+[pilot] 48/51 gcn/s4/t0.5  status=ok arm_id=gcn-s4-t0.5-seed0-20261109T195532318881Z-114b84 wall=4s test_acc=0.4860000014305115/0.7990000247955322 
+[pilot] 49/51 gcn/s4/t0.75 start
+[pilot] 49/51 gcn/s4/t0.75 status=ok arm_id=gcn-s4-t0.75-seed0-20261109T195536011282Z-ef3f1c wall=4s test_acc=0.14000000059604645/0.49399998784065247 
+[pilot] 50/51 gcn/s4/t0.9  start
+[pilot] 50/51 gcn/s4/t0.9  status=ok arm_id=gcn-s4-t0.9-seed0-20261109T195539699156Z-c4417b wall=4s test_acc=0.10700000077486038/0.2720000147819519 
+[pilot] 51/51 gcn/dense_ft/t0.0  start
+[pilot] 51/51 gcn/dense_ft/t0.0  status=ok arm_id=gcn-dense_ft-t0.0-seed0-20261109T195543347682Z-39212f wall=4s test_acc=None/0.8119999766349792 
+[pilot] done 2026-11-09T19:55:46.902501+00:00 total_wall=755s

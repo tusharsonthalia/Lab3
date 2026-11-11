@@ -1,0 +1,12 @@
+# Frozen 2026-11-09 (predictions.md, Part A.1). Do not edit.
+architecture: gcn
+dataset: cora
+optimizer: adam
+lr: 0.01
+weight_decay: 5.0e-4
+batch_size: null  # full-batch
+max_epochs: 300
+patience: 50
+hidden: 16
+dropout: 0.5
+# GCNConv(1433->16)->ReLU->Dropout(0.5) -> GCNConv(16->7)

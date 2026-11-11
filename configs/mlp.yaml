@@ -1,0 +1,10 @@
+# Frozen 2026-11-09 (predictions.md, Part A.1). Do not edit.
+architecture: mlp
+dataset: fmnist
+optimizer: adam
+lr: 1.0e-3
+weight_decay: 0.0
+batch_size: 128
+max_epochs: 30
+patience: 5
+hidden: [256, 128]  # 784 -> 256 -> 128 -> 10, ReLU, no dropout

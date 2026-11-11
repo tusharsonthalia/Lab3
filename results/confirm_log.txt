@@ -1,0 +1,92 @@
+[confirm] start 2026-11-09T20:11:21.997837+00:00 cells=45 already_done=0
+[confirm]  1/45 mlp/s1/t0.9  seed1 start
+[confirm]  1/45 mlp/s1/t0.9  seed1 status=ok arm_id=mlp-s1-t0.9-seed1-20261109T201122002967Z-cdf0f3 wall=6s test_acc=0.5973/0.8852 
+[confirm]  2/45 mlp/s1/t0.9  seed2 start
+[confirm]  2/45 mlp/s1/t0.9  seed2 status=ok arm_id=mlp-s1-t0.9-seed2-20261109T201128499304Z-91332d wall=7s test_acc=0.5973/0.8865 
+[confirm]  3/45 mlp/s1/t0.9  seed3 start
+[confirm]  3/45 mlp/s1/t0.9  seed3 status=ok arm_id=mlp-s1-t0.9-seed3-20261109T201135104057Z-ea00f6 wall=6s test_acc=0.5973/0.886 
+[confirm]  4/45 mlp/s2/t0.5  seed1 start
+[confirm]  4/45 mlp/s2/t0.5  seed1 status=ok arm_id=mlp-s2-t0.5-seed1-20261109T201141562407Z-067b0c wall=6s test_acc=0.7597/0.8923 
+[confirm]  5/45 mlp/s2/t0.5  seed2 start
+[confirm]  5/45 mlp/s2/t0.5  seed2 status=ok arm_id=mlp-s2-t0.5-seed2-20261109T201147154396Z-708a47 wall=6s test_acc=0.7597/0.894 
+[confirm]  6/45 mlp/s2/t0.5  seed3 start
+[confirm]  6/45 mlp/s2/t0.5  seed3 status=ok arm_id=mlp-s2-t0.5-seed3-20261109T201152736107Z-cc8227 wall=6s test_acc=0.7597/0.8922 
+[confirm]  7/45 mlp/s3/t0.9  seed1 start
+[confirm]  7/45 mlp/s3/t0.9  seed1 status=ok arm_id=mlp-s3-t0.9-seed1-20261109T201158349828Z-1b4d25 wall=7s test_acc=0.658/0.8783 
+[confirm]  8/45 mlp/s3/t0.9  seed2 start
+[confirm]  8/45 mlp/s3/t0.9  seed2 status=ok arm_id=mlp-s3-t0.9-seed2-20261109T201205700811Z-3bcbe0 wall=7s test_acc=0.658/0.8809 
+[confirm]  9/45 mlp/s3/t0.9  seed3 start
+[confirm]  9/45 mlp/s3/t0.9  seed3 status=ok arm_id=mlp-s3-t0.9-seed3-20261109T201213057974Z-994416 wall=7s test_acc=0.658/0.8803 
+[confirm] 10/45 mlp/s4/t0.75 seed1 start
+[confirm] 10/45 mlp/s4/t0.75 seed1 status=ok arm_id=mlp-s4-t0.75-seed1-20261109T201220460530Z-db3286 wall=7s test_acc=0.733/0.8884 
+[confirm] 11/45 mlp/s4/t0.75 seed2 start
+[confirm] 11/45 mlp/s4/t0.75 seed2 status=ok arm_id=mlp-s4-t0.75-seed2-20261109T201227458032Z-9e845b wall=7s test_acc=0.733/0.8847 
+[confirm] 12/45 mlp/s4/t0.75 seed3 start
+[confirm] 12/45 mlp/s4/t0.75 seed3 status=ok arm_id=mlp-s4-t0.75-seed3-20261109T201234602463Z-16f0ec wall=7s test_acc=0.733/0.8879 
+[confirm] 13/45 cnn/s1/t0.75 seed1 start
+[confirm] 13/45 cnn/s1/t0.75 seed1 status=ok arm_id=cnn-s1-t0.75-seed1-20261109T201241580606Z-d7e23e wall=37s test_acc=0.851/0.9148 
+[confirm] 14/45 cnn/s1/t0.75 seed2 start
+[confirm] 14/45 cnn/s1/t0.75 seed2 status=ok arm_id=cnn-s1-t0.75-seed2-20261109T201318233287Z-da6109 wall=37s test_acc=0.851/0.9139 
+[confirm] 15/45 cnn/s1/t0.75 seed3 start
+[confirm] 15/45 cnn/s1/t0.75 seed3 status=ok arm_id=cnn-s1-t0.75-seed3-20261109T201355161987Z-285acf wall=36s test_acc=0.851/0.9145 
+[confirm] 16/45 cnn/s2/t0.25 seed1 start
+[confirm] 16/45 cnn/s2/t0.25 seed1 status=ok arm_id=cnn-s2-t0.25-seed1-20261109T201431242822Z-862f38 wall=27s test_acc=0.7921/0.9113 
+[confirm] 17/45 cnn/s2/t0.25 seed2 start
+[confirm] 17/45 cnn/s2/t0.25 seed2 status=ok arm_id=cnn-s2-t0.25-seed2-20261109T201458605225Z-b209d6 wall=27s test_acc=0.7921/0.9106 
+[confirm] 18/45 cnn/s2/t0.25 seed3 start
+[confirm] 18/45 cnn/s2/t0.25 seed3 status=ok arm_id=cnn-s2-t0.25-seed3-20261109T201526056795Z-0382e0 wall=27s test_acc=0.7921/0.9094 
+[confirm] 19/45 cnn/s3/t0.75 seed1 start
+[confirm] 19/45 cnn/s3/t0.75 seed1 status=ok arm_id=cnn-s3-t0.75-seed1-20261109T201553376368Z-3636bf wall=39s test_acc=0.7888/0.9101 
+[confirm] 20/45 cnn/s3/t0.75 seed2 start
+[confirm] 20/45 cnn/s3/t0.75 seed2 status=ok arm_id=cnn-s3-t0.75-seed2-20261109T201632466990Z-2e5306 wall=40s test_acc=0.7888/0.9095 
+[confirm] 21/45 cnn/s3/t0.75 seed3 start
+[confirm] 21/45 cnn/s3/t0.75 seed3 status=ok arm_id=cnn-s3-t0.75-seed3-20261109T201712054257Z-0d23dc wall=39s test_acc=0.7888/0.9082 
+[confirm] 22/45 cnn/s4/t0.5  seed1 start
+[confirm] 22/45 cnn/s4/t0.5  seed1 status=ok arm_id=cnn-s4-t0.5-seed1-20261109T201750949496Z-6b76d4 wall=30s test_acc=0.7056/0.9126 
+[confirm] 23/45 cnn/s4/t0.5  seed2 start
+[confirm] 23/45 cnn/s4/t0.5  seed2 status=ok arm_id=cnn-s4-t0.5-seed2-20261109T201820553082Z-46ee52 wall=31s test_acc=0.7056/0.9095 
+[confirm] 24/45 cnn/s4/t0.5  seed3 start
+[confirm] 24/45 cnn/s4/t0.5  seed3 status=ok arm_id=cnn-s4-t0.5-seed3-20261109T201851672813Z-f9e1c7 wall=31s test_acc=0.7056/0.9128 
+[confirm] 25/45 gcn/s1/t0.9  seed1 start
+[confirm] 25/45 gcn/s1/t0.9  seed1 status=ok arm_id=gcn-s1-t0.9-seed1-20261109T201922904794Z-880248 wall=4s test_acc=0.7960000038146973/0.8050000071525574 
+[confirm] 26/45 gcn/s1/t0.9  seed2 start
+[confirm] 26/45 gcn/s1/t0.9  seed2 status=ok arm_id=gcn-s1-t0.9-seed2-20261109T201927218964Z-b0da04 wall=4s test_acc=0.7960000038146973/0.8019999861717224 
+[confirm] 27/45 gcn/s1/t0.9  seed3 start
+[confirm] 27/45 gcn/s1/t0.9  seed3 status=ok arm_id=gcn-s1-t0.9-seed3-20261109T201931525166Z-b63df4 wall=4s test_acc=0.7960000038146973/0.7950000166893005 
+[confirm] 28/45 gcn/s2/t0.5  seed1 start
+[confirm] 28/45 gcn/s2/t0.5  seed1 status=ok arm_id=gcn-s2-t0.5-seed1-20261109T201935831155Z-2dc6cc wall=3s test_acc=0.546999990940094/0.7749999761581421 
+[confirm] 29/45 gcn/s2/t0.5  seed2 start
+[confirm] 29/45 gcn/s2/t0.5  seed2 status=ok arm_id=gcn-s2-t0.5-seed2-20261109T201939220261Z-c2725b wall=3s test_acc=0.546999990940094/0.7720000147819519 
+[confirm] 30/45 gcn/s2/t0.5  seed3 start
+[confirm] 30/45 gcn/s2/t0.5  seed3 status=ok arm_id=gcn-s2-t0.5-seed3-20261109T201942608614Z-63c3dd wall=3s test_acc=0.546999990940094/0.7689999938011169 
+[confirm] 31/45 gcn/s3/t0.9  seed1 start
+[confirm] 31/45 gcn/s3/t0.9  seed1 status=ok arm_id=gcn-s3-t0.9-seed1-20261109T201945991516Z-23af7b wall=4s test_acc=0.7829999923706055/0.8029999732971191 
+[confirm] 32/45 gcn/s3/t0.9  seed2 start
+[confirm] 32/45 gcn/s3/t0.9  seed2 status=ok arm_id=gcn-s3-t0.9-seed2-20261109T201950275425Z-2e72ec wall=4s test_acc=0.7829999923706055/0.8040000200271606 
+[confirm] 33/45 gcn/s3/t0.9  seed3 start
+[confirm] 33/45 gcn/s3/t0.9  seed3 status=ok arm_id=gcn-s3-t0.9-seed3-20261109T201954573868Z-b142c7 wall=4s test_acc=0.7829999923706055/0.800000011920929 
+[confirm] 34/45 gcn/s4/t0.25 seed1 start
+[confirm] 34/45 gcn/s4/t0.25 seed1 status=ok arm_id=gcn-s4-t0.25-seed1-20261109T201958869242Z-9be18b wall=4s test_acc=0.722000002861023/0.8059999942779541 
+[confirm] 35/45 gcn/s4/t0.25 seed2 start
+[confirm] 35/45 gcn/s4/t0.25 seed2 status=ok arm_id=gcn-s4-t0.25-seed2-20261109T202002465710Z-0ea97c wall=4s test_acc=0.722000002861023/0.7979999780654907 
+[confirm] 36/45 gcn/s4/t0.25 seed3 start
+[confirm] 36/45 gcn/s4/t0.25 seed3 status=ok arm_id=gcn-s4-t0.25-seed3-20261109T202006053891Z-a3d593 wall=4s test_acc=0.722000002861023/0.8080000281333923 
+[confirm] 37/45 mlp/dense_ft/t0.0  seed1 start
+[confirm] 37/45 mlp/dense_ft/t0.0  seed1 status=ok arm_id=mlp-dense_ft-t0.0-seed1-20261109T202009639805Z-c5a86c wall=6s test_acc=None/0.8939 
+[confirm] 38/45 mlp/dense_ft/t0.0  seed2 start
+[confirm] 38/45 mlp/dense_ft/t0.0  seed2 status=ok arm_id=mlp-dense_ft-t0.0-seed2-20261109T202015428602Z-73a9b1 wall=6s test_acc=None/0.894 
+[confirm] 39/45 mlp/dense_ft/t0.0  seed3 start
+[confirm] 39/45 mlp/dense_ft/t0.0  seed3 status=ok arm_id=mlp-dense_ft-t0.0-seed3-20261109T202021320922Z-b80ca7 wall=6s test_acc=None/0.8965 
+[confirm] 40/45 cnn/dense_ft/t0.0  seed1 start
+[confirm] 40/45 cnn/dense_ft/t0.0  seed1 status=ok arm_id=cnn-dense_ft-t0.0-seed1-20261109T202027241593Z-2eac6e wall=29s test_acc=None/0.9124 
+[confirm] 41/45 cnn/dense_ft/t0.0  seed2 start
+[confirm] 41/45 cnn/dense_ft/t0.0  seed2 status=ok arm_id=cnn-dense_ft-t0.0-seed2-20261109T202055807049Z-8d71e0 wall=30s test_acc=None/0.9155 
+[confirm] 42/45 cnn/dense_ft/t0.0  seed3 start
+[confirm] 42/45 cnn/dense_ft/t0.0  seed3 status=ok arm_id=cnn-dense_ft-t0.0-seed3-20261109T202126286222Z-6f704d wall=30s test_acc=None/0.9134 
+[confirm] 43/45 gcn/dense_ft/t0.0  seed1 start
+[confirm] 43/45 gcn/dense_ft/t0.0  seed1 status=ok arm_id=gcn-dense_ft-t0.0-seed1-20261109T202156612899Z-a82046 wall=4s test_acc=None/0.8130000233650208 
+[confirm] 44/45 gcn/dense_ft/t0.0  seed2 start
+[confirm] 44/45 gcn/dense_ft/t0.0  seed2 status=ok arm_id=gcn-dense_ft-t0.0-seed2-20261109T202200256027Z-c4b257 wall=4s test_acc=None/0.8149999976158142 
+[confirm] 45/45 gcn/dense_ft/t0.0  seed3 start
+[confirm] 45/45 gcn/dense_ft/t0.0  seed3 status=ok arm_id=gcn-dense_ft-t0.0-seed3-20261109T202203896925Z-c879ed wall=4s test_acc=None/0.8090000152587891 
+[confirm] done 2026-11-09T20:22:07.463693+00:00 total_wall=645s
